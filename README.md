@@ -96,3 +96,6 @@ This project is configured to run instantly without setting up a database.
 *   **Compression**: Gzip compression for faster load times.
 *   **Session Security**: HttpOnly cookies, secure session storage in DB.
 *   **Input Validation**: Zod schema validation for all API inputs.
+
+## ✔Preview 
+https://aeromake3d.netlify.app/
